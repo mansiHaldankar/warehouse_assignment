@@ -1,0 +1,20 @@
+.logo {
+    background-image: url(../../images/Logo.png);
+    background-repeat: no-repeat;
+    width: 160px;
+    background-size: contain;
+    height: 30px;
+}
+
+.tagline {
+    font-weight: 700;
+}
+
+.payment-options {
+    background-image: url(../../images/payment.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: -20px;
+}

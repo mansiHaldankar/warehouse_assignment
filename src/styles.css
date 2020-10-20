@@ -1,0 +1,120 @@
+/* You can add global styles to this file, and also import other style files */
+
+.PA-0 {
+    padding: 0;
+}
+
+.MA-0 {
+    margin: 0 !important;
+}
+
+.special-offer-msg {
+    background-color: #ffffff;
+    width: 360px;
+    height: 325px;
+    text-align: center;
+}
+
+.special-offer-msg-border {
+    border: 2px solid #ff0000;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.special-offer-header {
+    font-weight: 600;
+    color: #ff0000;
+    font-size: xx-large;
+    text-transform: uppercase;
+}
+
+.special-offer-subHeader {
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: 500;
+    color: #808080;
+    margin-bottom: 20px;
+}
+
+.special-offer-content {
+    margin-bottom: 30px;
+    color: #808080;
+    font-size: 14px;
+}
+
+.special-offer-btn {
+    border: 2px solid #ff0000;
+    padding: 5px 25px;
+    font-weight: 500;
+    color: #ff0000;
+}
+
+.latest-product-section,
+.latest-products-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.latest-product-lines {
+    margin: 10px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(app/images/Seperator.png);
+}
+
+.carousel-arrows a {
+    color: #000000;
+}
+
+.product-img {
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 200px;
+    border: none;
+}
+
+.product-info-sec {
+    font-size: 11px;
+}
+
+.brand-name-sec,
+.discountValue-sec {
+    color: #ff0000;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.product-name-sec,
+.amount-sec {
+    font-weight: 700;
+}
+
+.has-discount-amt {
+    text-decoration: line-through;
+    text-decoration-color: #ff0000;
+}
+
+.product-img-sec {
+    border: 1px solid #f2f2f2;
+    border-radius: 0;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.summer-special-sec {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec-heading {
+    font-weight: 600;
+    color: #000000;
+    margin-bottom: 15px;
+}
+
+.footer-details-sec {
+    font-size: 14px;
+}

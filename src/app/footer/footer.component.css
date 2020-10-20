@@ -1,0 +1,30 @@
+.footer-sec {
+    display: flex;
+    color: #808080;
+    font-weight: 400;
+}
+
+.adderss-sec {
+    flex-grow: 2;
+}
+
+.footer-subSection {
+    flex-grow: 1;
+}
+
+.footer-copyright-sec {
+    font-size: 14px;
+}
+
+.footer-copyright-msg {
+    color: #808080;
+}
+
+.web-design-logo {
+    background-repeat: no-repeat;
+    background-image: url(../images/footer-star.png);
+    height: 20px;
+    background-size: contain;
+    width: 10px;
+    margin: 0 5px;
+}

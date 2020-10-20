@@ -1,0 +1,53 @@
+.women-sec-img {
+    background-image: url(../../images/women_thumbnil.png);
+}
+
+.men-sec-img {
+    background-image: url(../../images/men_thumbnil.png);
+}
+
+.social-img-sec {
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 464px;
+    height: 310px;
+}
+
+.summer-special-msg {
+    margin: 0;
+    height: 310px;
+}
+
+.be-social-logo {
+    background-image: url(../../images/social_icon.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 50px;
+    height: 50px;
+    margin: auto;
+}
+
+.social-media-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.social-media-icons div {
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+}
+
+.facebook-icon {
+    background-image: url(../../images/facebook.jpg);
+}
+
+.instagram-icon {
+    background-image: url(../../images/instagram.jpg);
+}
+
+.pinterest-icon {
+    background-image: url(../../images/pinterest.jpg);
+}

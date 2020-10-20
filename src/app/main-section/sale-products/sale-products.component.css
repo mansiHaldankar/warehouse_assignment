@@ -1,0 +1,28 @@
+.img-sale {
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 240px;
+    width: 240px;
+    border: none;
+}
+
+.img-sale.Shirts {
+    background-image: url(../../images/Shirts.jpg);
+}
+
+.img-sale.Dresses {
+    background-image: url(../../images/Dresses.jpg);
+}
+
+.img-sale.Glasses {
+    background-image: url(../../images/Glasses.png);
+}
+
+.img-sale.Jewels {
+    background-image: url(../../images/Jewels.png);
+}
+
+.sale-products-list {
+    display: flex;
+    justify-content: space-between;
+}

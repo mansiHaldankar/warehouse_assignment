@@ -1,0 +1,68 @@
+.latest-product-section,
+.latest-products-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.latest-product-lines {
+    margin: 10px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(../../images/Seperator.png);
+}
+
+.carousel-arrows a {
+    color: #000000;
+}
+
+.product-img {
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 240px;
+    width: 200px;
+    border: none;
+}
+
+.product-img.Latest_Product_1 {
+    background-image: url(../../images/Latest_Product_1.jpg);
+}
+
+.product-img.Latest_Product_2 {
+    background-image: url(../../images/Latest_Product_2.jpg);
+}
+
+.product-img.Latest_Product_3 {
+    background-image: url(../../images/Latest_Product_3.jpg);
+}
+
+.product-img.Latest_Product_4 {
+    background-image: url(../../images/Latest_Product_4.jpg);
+}
+
+.product-info-sec {
+    font-size: 11px;
+}
+
+.brand-name-sec,
+.discountValue-sec {
+    color: #ff0000;
+    font-weight: 700;
+}
+
+.product-name-sec,
+.amount-sec {
+    font-weight: 700;
+}
+
+.has-discount-amt {
+    text-decoration: line-through;
+    text-decoration-color: #ff0000;
+}
+
+.latest-img-sec {
+    border: 1px solid #f2f2f2;
+    border-radius: 0;
+    padding: 20px 10px;
+    margin-bottom: 10px;
+}

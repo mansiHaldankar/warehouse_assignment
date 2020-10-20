@@ -1,0 +1,67 @@
+.orange-pocket-shirt-img {
+    background-image: url(../../images/orange_pocket_shirt.jpg);
+}
+
+.summer-white-shirt-img {
+    background-image: url(../../images/Summer_white_shirt.jpg);
+}
+
+.summer-special-img-sec {
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 460px;
+    height: 310px;
+}
+
+.news-letter-msg {
+    margin: 0;
+    height: 350px;
+    padding: 26px 10px;
+}
+
+.news-letter-logo {
+    background-image: url(../../images/news_letter.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+}
+
+.news-letter-form {
+    margin: 0 10px;
+    border: 1px solid #ccc;
+}
+
+.news-letter-form input {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    border-radius: 0;
+}
+
+.news-letter-form .input-addon {
+    position: absolute;
+    right: 13px;
+    top: 5px;
+    color: #808080;
+}
+
+.subscribe-btn {
+    border: none;
+    border-radius: 0;
+    position: relative;
+    background-color: #ff0000;
+}
+
+.subscribe-btn .input-addon {
+    color: #ffffff;
+}
+
+.news-letter-msg {
+    height: 325px;
+}
+
+.news-letter-sec .summer-special-img-sec {
+    width: 465px;
+    height: 340px;
+}

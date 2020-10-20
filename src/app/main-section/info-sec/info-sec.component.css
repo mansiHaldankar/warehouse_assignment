@@ -1,0 +1,30 @@
+.action-img-sec {
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 30px;
+    width: 30px;
+}
+
+.action-img-sec.Refer {
+    background-image: url(../../images/Refer.png);
+}
+
+.action-img-sec.Loyality {
+    background-image: url(../../images/Loyality.png);
+}
+
+.action-img-sec.Return {
+    background-image: url(../../images/Return.png);
+}
+
+.action-img-sec.Shipping {
+    background-image: url(../../images/Shipping.png);
+}
+
+.action-description {
+    font-size: 14px;
+}
+
+.action-info-sec {
+    display: flex;
+}

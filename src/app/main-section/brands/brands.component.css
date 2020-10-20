@@ -1,0 +1,48 @@
+.brands-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.brand-img {
+    height: 30px;
+    width: 80px;
+}
+
+.product-img.BOSS {
+    background-image: url(../../images/BOSS.png);
+}
+
+.product-img.VERSACE {
+    background-image: url(../../images/VERSACE.png);
+}
+
+.product-img.RALPH {
+    background-image: url(../../images/RALPH.png);
+}
+
+.product-img.CHANEL {
+    background-image: url(../../images/CHANEL.png);
+}
+
+.product-img.BURBERRY {
+    background-image: url(../../images/BURBERRY.png);
+}
+
+.product-img.Kate_Spade {
+    background-image: url(../../images/Kate_Spade.png);
+}
+
+.product-img.GUCCI {
+    background-image: url(../../images/GUCCI.png);
+}
+
+.product-info-sec {
+    font-size: 11px;
+}
+
+.latest-img-sec {
+    border: 1px solid #f2f2f2;
+    border-radius: 0;
+    padding: 20px 10px;
+    margin-bottom: 10px;
+}

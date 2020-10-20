@@ -1,0 +1,32 @@
+<div class="latest-product-section">
+    <div class="media col-12 PA-0">
+        <div class="mr-3">
+            <b>- BEST PRODUCTS</b>
+        </div>
+        <div class="media-body latest-product-lines">
+        </div>
+    </div>
+</div>
+<div class="latest-products-list best-product-sec">
+    <div *ngFor="let product of latestProducts" class="latest-products-item mb-3">
+        <div class="product-img-sec">
+            <div class="img-thumbnail product-img {{product.imgName}}"></div>
+        </div>
+        <div class="product-info-sec">
+            <div class="brand-name-sec">{{product.brand}}</div>
+            <div class="product-name-sec">{{product.productName}}</div>
+            <div class="d-inline-flex">
+                <div [ngClass]="{
+                      'has-discount-amt':product.discountValue
+                    }">
+                    <span>AED </span>
+                    <span class="amount-sec">{{product.amount}}</span>
+                </div>
+                <div *ngIf="product.discountValue" class="ml-2 discountValue-sec">
+                    <span>AED </span>
+                    <span class="amount-sec">{{product.discountValue}}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

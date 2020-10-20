@@ -1,0 +1,28 @@
+.grey-spring-img {
+    background-image: url(../../images/Gray_Spring.jpg);
+}
+
+.army-style-img {
+    background-image: url(../../images/Army_style.jpg);
+}
+
+.summer-special-img-sec {
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 460px;
+    height: 310px;
+}
+
+.summer-special-msg {
+    margin: 0;
+    height: 310px;
+}
+
+.offer-logo {
+    background-image: url(../../images/summer_special_star.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+}

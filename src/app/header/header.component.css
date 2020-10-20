@@ -1,0 +1,36 @@
+.header-info {
+    text-align: center;
+    margin: 15px 10px 0 10px;
+    font-weight: 400;
+    font-size: 11px;
+}
+
+.signIn-sec a {
+    color: #808080;
+    font-size: 13px;
+}
+
+.header-border {
+    border-top: 2px solid rgba(0, 0, 0, .1);
+    margin-top: 2%;
+}
+
+.logo-sec {
+    background-image: url(../images/Logo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 250px;
+    height: 47px;
+}
+
+.bag-sec {
+    background-image: url(../images/bag.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 50px;
+}
+
+.search-sec {
+    padding: 0;
+    margin-top: 6px;
+}

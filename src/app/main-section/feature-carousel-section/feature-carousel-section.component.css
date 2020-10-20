@@ -1,0 +1,19 @@
+.feature-model {
+    background-image: url(../../images/wallpaper.png);
+    height: 520px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.feature-carousel-sec {
+    margin-top: 10px;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-image: none;
+    color: #000;
+}

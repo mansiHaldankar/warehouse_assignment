@@ -1,0 +1,11 @@
+<div class="action-info-sec">
+    <div *ngFor="let act of actionItems" class="mr-3">
+        <div class="media">
+            <div class="action-img-sec {{act.actionImg}} align-self-center mr-3"></div>
+            <div class="media-body">
+                <div class="action-name font-weight-bold">{{act.action}}</div>
+                <div class="action-description">{{act.actionDescription}}</div>
+            </div>
+        </div>
+    </div>
+</div>

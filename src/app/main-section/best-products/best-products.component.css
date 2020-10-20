@@ -1,0 +1,36 @@
+.product-img.Jack {
+    background-image: url(../../images/Jack.png);
+    background-size: cover;
+}
+
+.product-img.Northface_pink {
+    background-image: url(../../images/Northface_pink.png);
+}
+
+.product-img.Adidas {
+    background-image: url(../../images/Adidas.png);
+}
+
+.product-img.Levi_White {
+    background-image: url(../../images/Levi_White.png);
+}
+
+.product-img.Jack_stripped {
+    background-image: url(../../images/Jack_stripped.png);
+}
+
+.product-img.Northface_black {
+    background-image: url(../../images/Northface_black.png);
+}
+
+.product-img.Adidas_grey {
+    background-image: url(../../images/Adidas_grey.png);
+}
+
+.product-img.Levi_blue {
+    background-image: url(../../images/Levi_blue.png);
+}
+
+.best-product-sec {
+    flex-wrap: wrap;
+}

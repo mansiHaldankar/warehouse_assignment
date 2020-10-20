@@ -1,0 +1,9 @@
+.topbar-nav-sec a {
+    color: #030303;
+    font-size: small;
+}
+
+.topbar-nav-sec .nav-link.active {
+    background-color: transparent;
+    color: #ff0000
+}
